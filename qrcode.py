@@ -15,7 +15,7 @@ def to_url():
 
 def information(n,a,ad):
 
-          return "Name: n"+"\nAge: a"+"\nAddress: ad"
+           return "Name: "+n+"\nAge: "+a+"\nAddress: "+ad
 
 print ('''>>Press 1 to create qr urls
 >>Press 2 to create qr information 
